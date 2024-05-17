@@ -1,0 +1,16 @@
+body .title {
+    text-align: center;
+}
+
+body .title h1 {
+    font-size: 2em;
+}
+
+body .contentTable {
+    display: flex;
+    justify-content: center;
+}
+
+body .contentTable .table {
+    width: 50%;
+}
