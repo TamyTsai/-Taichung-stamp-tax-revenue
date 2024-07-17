@@ -43,6 +43,7 @@ cd Taichung-stamp-tax-revenue
 
 ## 專案技術
 - 前端：HTML、Bootstrap、jQuery
+- 部署：GitHub Pages
 - 版本控制：Git
 
 ## 使用技術詳細說明
